@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6C47A6DA-33D1-46CD-8AAB-8695C2D18EBE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ejercicio</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D321DA49-7A1D-4B8A-87D6-4096606EB02E</key>
+		<string>https://github.com/florentino859/Ejercicio1</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ejercicio.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D321DA49-7A1D-4B8A-87D6-4096606EB02E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/florentino859/Ejercicio1</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D321DA49-7A1D-4B8A-87D6-4096606EB02E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D321DA49-7A1D-4B8A-87D6-4096606EB02E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ejercicio</string>
+		</dict>
+	</array>
+</dict>
+</plist>
